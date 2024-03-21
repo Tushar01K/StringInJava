@@ -1,1 +1,1 @@
-# StringInJava
+# StringInJava:-Welcome to the String Manipulation Program repository! This Java program showcases various operations and manipulations on strings, providing functionality for tasks such as string concatenation, substring extraction, character counting, and more.
